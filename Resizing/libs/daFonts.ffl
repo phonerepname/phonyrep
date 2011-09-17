@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="daFont" output="fonts" format="1" static="false">
+	<font id="din" family="DIN" style="0" cs="1,2,3,4,5" type="1" path="/Users/micha/Fonts/D/DINPro-Regular/DINPro-Regular.otf" ascff="false" autoId="false"/>
+</library>
